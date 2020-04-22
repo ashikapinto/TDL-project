@@ -1,0 +1,6 @@
+py-midi
+pandas 
+msgpack-python
+numpy
+glob2
+tqdm
